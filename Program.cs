@@ -17,7 +17,6 @@ namespace VelocMedia
             Console.WriteLine($"\n Velocidade média: {velocidadeMedia}");
             Console.Write("\n Pressione qualquer tecla para sair");
             Console.ReadKey();
-            
         }
     }
 }
